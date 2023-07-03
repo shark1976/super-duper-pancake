@@ -1,5 +1,9 @@
-install: 
+install:  
 	which python
 
-setup: 
+setup:  
 	ls -ltra
+
+force: 
+	cat Makefile
+
