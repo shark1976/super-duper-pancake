@@ -1,5 +1,5 @@
 install: 
-  which python
+        which python
 
 setup: 
-  ls -ltra
+        ls -ltra
